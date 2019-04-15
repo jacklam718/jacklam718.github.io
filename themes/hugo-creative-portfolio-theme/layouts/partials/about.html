@@ -1,0 +1,10 @@
+<div class="col-xs-12 col-sm-8 col-md-9 content-column">
+    {{ partial "mobile_nav_toggle.html" . }}
+
+    {{ range (where .Data.Pages "Section" "about") }}
+        <div class="row">
+            <h1>{{ .Title }}</h1>
+            {{ .Content }}
+        </div>
+    {{ end }}
+</div>
