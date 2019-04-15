@@ -1,0 +1,1 @@
+delay = async (ms) => setTimeout(Promise.resolve, ms);

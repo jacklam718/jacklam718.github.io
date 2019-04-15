@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on </title>
+    <link>https://jacklam718.github.io/about/</link>
+    <description>Recent content in Abouts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    
+	<atom:link href="https://jacklam718.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://jacklam718.github.io/about/about/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>https://jacklam718.github.io/about/about/</guid>
+      <description>I am a self taught developer and was school dropout because I don&amp;rsquo;t like Hong Kong&amp;rsquo;s education system. I loves coding, interested in mobile, web and backend development. Also interested and learning DDD, Microservices, CQRS, Event Sourcing.
+
+Work Experience Branch8 - Software Engineer, Jun 2018 - Dec 2018  Worked on a CRM project backend &amp;amp; frontend. Introduced scrum process Introduced daily stand-up which improved communication efficiency.</description>
+    </item>
+    
+  </channel>
+</rss>
