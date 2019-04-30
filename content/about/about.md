@@ -14,7 +14,7 @@ I am a self taught developer and was school dropout because I don't like Hong Ko
 * Introduced daily stand-up which improved communication efficiency.
 
 <br>
-#### [Seasonalife](https://www.seasonalife.com/) - Software Engineer, Jan 2018 - March 2018
+#### [Seasonalife](https://www.seasonalife.com/) - Software Engineer, Jan 2018 - May 2018
 * Backend - R&D on Event Sourcing, CQRS (implement on NodeJs)
 * Develop web application uses React and Rematch.
 * Introduce scrum development process.
